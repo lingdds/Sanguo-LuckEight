@@ -1,0 +1,5 @@
+{
+  "name": "Luck Eights - 幸运 8 点",
+  "description": "一个经典的纸牌游戏，玩家与 AI 对战，最先出完牌者获胜。数字 8 是万能牌！",
+  "requestFramePermissions": []
+}
